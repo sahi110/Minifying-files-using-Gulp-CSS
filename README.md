@@ -1,2 +1,2 @@
-# Minifying-files-using-Gulp-CSS
+# Minifying-files-using-Gulp-Scss
 Minifying files
